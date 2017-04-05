@@ -1,4 +1,4 @@
-<img src="https://github.com/themasteroftheuniverse/zocomutbildning/blob/master/img/logo_original.png" alt="ZoCom" width="50%" height="50%">
+<img src="https://github.com/zocomsgitutbildning/zocomutbildning/blob/master/img/logo_original.png" alt="ZoCom" width="50%" height="50%">
 
 # Träna på samarbete via GitHub
 
