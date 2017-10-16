@@ -14,3 +14,7 @@
  	* Kort beskrivning av vad du gjort.
  	* Länk till din LinkedIn-profil (om du har en).
  
+### Markus Mattsson
+### Html & Css, Frontend Utveckling, Ec Utbildning 2017
+Ändrat bilden från jpg till png.
+https://www.linkedin.com/in/markus-mattsson-8614196a/
